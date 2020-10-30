@@ -51,6 +51,7 @@
     "dist"
   ],
   "dependencies": {
+    "marked": "^1.2.2",
     "prop-types": "^15.7.2"
   }
 }
