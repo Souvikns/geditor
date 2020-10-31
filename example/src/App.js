@@ -1,10 +1,11 @@
 import React from 'react'
 
-import Editor from 'geditor'
-import 'geditor/dist/index.css'
+import { Editor } from './lib';
 
 const App = () => {
-  return <Editor value="Create React Library Example 😄" />
+  return <div>
+
+  </div>
 }
 
 export default App
