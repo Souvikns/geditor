@@ -1,6 +1,6 @@
 {
-  "name": "geditor",
-  "version": "1.0.0",
+  "name": "@sd/geditor",
+  "version": "0.0.1",
   "description": "Made with create-react-library",
   "author": "Souvikns",
   "license": "MIT",
